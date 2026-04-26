@@ -1,0 +1,12 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Apr 26 10:02:56 2026"
+  rime_version: 1.13.1
+patch:
+  schema_list:
+   # - {schema: luna_pinyin_simp}
+    - schema: wubixinshiji    # 新世纪五笔
+    - schema: wubixinshiji_pinyin    # 新世纪五笔·拼音
+    - schema: wubixinshiji_trad    # 新世纪五笔·简入繁出
